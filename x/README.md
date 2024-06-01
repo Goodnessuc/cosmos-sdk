@@ -5,7 +5,7 @@ sidebar_position: 0
 # List of Modules
 
 Here are some production-grade modules that can be used in Cosmos SDK applications, along with their respective documentation:
-
+* [Accounts](./accounts/README.md) - Provides module and facilities for writing smart cosmos-sdk accounts. 
 * [Auth](./auth/README.md) - Authentication of accounts and transactions for Cosmos SDK applications.
 * [Authz](./authz/README.md) - Authorization for accounts to perform actions on behalf of other accounts.
 * [Bank](./bank/README.md) - Token transfer functionalities.
